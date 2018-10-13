@@ -32,7 +32,7 @@ and :
 ``` php
 
 
-echo \Mimj\AzRast\Facades\RtlIt->text("از راست بنویس
+echo \Mimj\AzRast\Facades\RtlIt::text("از راست بنویس
 
     var foo = function (bar) {
       return bar++;
