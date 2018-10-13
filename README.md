@@ -19,8 +19,6 @@ echo $parsedown->text("از راست بنویس
 
     console.log(foo(5));
     ");
-
-});
 ```
 
 or in laravel you can use Laravel's Facade System:
@@ -40,8 +38,6 @@ echo \Mimj\AzRast\Facades\RtlIt::text("از راست بنویس
 
     console.log(foo(5));
     ");
-
-});
 ```
 
 
