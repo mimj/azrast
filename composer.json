@@ -7,6 +7,11 @@
       "email": "maysam.jadidi@gmail.com"
     }
   ],
+  "autoload":{
+    "psr-4":{
+      "Mimj\\AzRast\\":"src/"
+    }
+  },
   "require": {
     "erusev/parsedown": "^1.7",
     "wa72/htmlpagedom": "^1.3"
